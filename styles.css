@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(57, 62, 70);
+}
+
+h1 {
+  font-size: 6.5rem;
+  color: rgb(78, 204, 163);
+  font-family: 'Chewy', cursive;
+  text-shadow: 5px 0 #232931;
+  margin: 60px 0 40px 0 ;
+  font-weight:lighter;
+}
+
+h2 {
+  text-shadow: 5px 0 #232931;
+  font-weight: lighter;
+}
+
+img {
+  width: 80%;
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  font-family: 'Chewy', cursive;
+  display: inline-block;
+  color: rgb(78, 204, 163);
+  text-align: center;
+}
+
+.footer {
+  margin-top: 30px;
+  text-align: center;
+  color: gray;
+}
